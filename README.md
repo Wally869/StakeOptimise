@@ -1,38 +1,32 @@
-# create-svelte
+# StakeOptimiser   
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+StakeOptimiser is a tool to enable users to increase decentralisation of stake on Cosmos-based networks.  
 
-## Creating a project
+1- The user connects to the tool with the Keplr wallet  
+2- Enter the amount to stake and request an optimisation  
+3- We split the delegation between validators, depending on their current stake and the user's target staking amount, to maximize the decentralisation ratio of the network  
+4- The user can then execute the staking transaction and send its stake to multiple validators at once 
 
-If you're seeing this, you've probably already done this step. Congrats!
+This tool currently only supports the Cosmoshub testnet
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+This project was created as a submission for the [AEZ Boost hackaton on DoraHacks](https://dorahacks.io/hackathon/aez-boost/buidl)  
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
-## Developing
+## Usage    
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+This tool makes use of Vercel cloud functions written on python, so you need the Vercel client and Python installed  
 
-```bash
-npm run dev
+1- Clone this repository  
+2- Install dependencies (pnpm install)  
+3- Run the app (pnpm vercel dev)  
+4- Open "http://localhost:3000/" 
+5- Connect your wallet 
+6- Choose an amount to stake  
+7- Click "Optimize Stake". The validators which will receive a stake will be listed on the right and the new decentralization ratio will be displayed  
+8- Click on "Execute Stake" to send the staking messages.  
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
 
-## Building
+## Improvements and Issues  
 
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+- Support more networks   
+- 
