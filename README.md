@@ -19,14 +19,15 @@ This tool makes use of Vercel cloud functions written on python, so you need the
 1- Clone this repository  
 2- Install dependencies (pnpm install)  
 3- Run the app (pnpm vercel dev)  
-4- Open "http://localhost:3000/" 
-5- Connect your wallet 
-6- Choose an amount to stake  
+4- Open "http://localhost:3000/"   
+5- Connect your wallet   
+6- Choose an amount to stake    
 7- Click "Optimize Stake". The validators which will receive a stake will be listed on the right and the new decentralization ratio will be displayed  
 8- Click on "Execute Stake" to send the staking messages.  
 
 
 ## Improvements and Issues  
 
-- Support more networks   
-- 
+- Support more networks     
+- Add more control over parameters (minimum stake allocation, include commission rate in the optimization, avoid previously slashed validators...)   
+- UI improvements   
