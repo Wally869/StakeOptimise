@@ -37,9 +37,7 @@ def eval_decentralisation():
 def optimize():
     payload: StakeOptimizePayload = StakeOptimizePayload.from_dict(
         request.get_json()
-        )
-
-    # print(f"payload optimize: {payload}")
+    )
 
     # compute weights
     weights = stake_optimize(payload.amount_to_stake, payload.validator_set)
@@ -65,6 +63,8 @@ def optimize():
 
     # prune validators with 0 to stake
     targets = list(filter(lambda x: x.amount_to_stake > 0, targets))
+    # prune validators with > 0.0000001 to stake 
+    targets = list(filter(lambda x: x.amount_to_stake > 0.000001, targets))
 
     # create response obj and return
     resp = StakeOptimizeResponse(

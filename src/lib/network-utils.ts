@@ -39,6 +39,8 @@ export async function create_client(chain_rpc: string): Promise<ReadClient> {
         tendermint, setupStakingExtension, setupBankExtension
     );
 
+    // let params = await query_client.staking.params()
+
     return query_client;
 }
 
@@ -48,7 +50,6 @@ export async function get_validator_data(client: ReadClient): Promise<Validator[
 
     let next_key: Uint8Array | undefined;
     while (true) {
-        //console.log("querying rpc");
         let temp;
         if (next_key) {
             temp = await client.staking.validators("BOND_STATUS_BONDED", next_key);

@@ -21,8 +21,6 @@
 			validator_set: $VALIDATORS_DATA
 		};
 
-		console.log(payload.amount_to_stake)
-
 
 		try {
 			const response = await fetch('/api/optimize', {
@@ -34,13 +32,12 @@
 				body: JSON.stringify(payload)
 			});
 			let staking_response: StakeOptimizeResponse = await response.json();
-			console.log(staking_response);
 
 			STAKE_API_RES_STORE.set(
 				staking_response
 			);
 		} catch (e) {
-			console.log(`optimisation failed with error: ${e}`)
+			console.error(`optimisation failed with error: ${e}`)
 		}
 
 	}

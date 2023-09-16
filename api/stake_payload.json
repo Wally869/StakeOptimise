@@ -1,0 +1,139 @@
+{
+    "total_supply": 0.0,
+    "amount_to_stake": 150.0,
+    "yield_prority": 50.0,
+    "validator_set": [
+        {
+            "moniker": "fire \ud83d\udd25",
+            "address": "cosmosvaloper1ymz3kjtf9zkfmm2s2lry7eh0zd9ez3vc5yp00f",
+            "curr_stake": 110000210.937841,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "Bunker Stake \ud83d\udee1\ufe0f",
+            "address": "cosmosvaloper19fntgg6zh62knux7cg9lzz4dg3zctm4k67lvqc",
+            "curr_stake": 125.530527,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "DokiaCapital",
+            "address": "cosmosvaloper19342urxcsl6gr0p449jkcy4l3r6y576vk7v5uk",
+            "curr_stake": 5.722685,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "RockawayX",
+            "address": "cosmosvaloper19hn0m3zc03utmjuej3tpyptykrkxn7jqflzjdq",
+            "curr_stake": 8000033.125559,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "wind \ud83c\udf43",
+            "address": "cosmosvaloper183aycgtstp67r6s4vd7ts2npp2ckk4xah7rxj6",
+            "curr_stake": 220010849.319974,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "Everstake",
+            "address": "cosmosvaloper1tflk30mq5vgqjdly92kkhhq3raev2hnz6eete3",
+            "curr_stake": 9002503.440798,
+            "commission_rate": 5e+16
+        },
+        {
+            "moniker": "earth \ud83c\udf0e",
+            "address": "cosmosvaloper10v6wvdenee8r9l6wlsphcgur2ltl8ztkfrvj9a",
+            "curr_stake": 240018041.539078,
+            "commission_rate": 2e+17
+        },
+        {
+            "moniker": "Colossus",
+            "address": "cosmosvaloper10jt73m3mlkmsqsys7jl7aktzj9nsdrgxxvy4j5",
+            "curr_stake": 8369665.599488,
+            "commission_rate": 9e+17
+        },
+        {
+            "moniker": "NEOPIN",
+            "address": "cosmosvaloper1srt0vu2qcjkq4dvcrgssvg6ug53j53kfyyjdlt",
+            "curr_stake": 10.512021,
+            "commission_rate": 5e+16
+        },
+        {
+            "moniker": "KalpaTech",
+            "address": "cosmosvaloper13n6wqhq8la352je00nwq847ktp47pgknseu6kk",
+            "curr_stake": 8010230.058106,
+            "commission_rate": 5e+16
+        },
+        {
+            "moniker": "public-testnet",
+            "address": "cosmosvaloper13m6x5rqtgr4xsecvu6p8v44s3pju363n6v36r9",
+            "curr_stake": 7.400252,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "BitValidator",
+            "address": "cosmosvaloper1jxus7q7nz7c2ld5sk7dv702kmkxer9dpz7pure",
+            "curr_stake": 8.9573,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "foundry-testnet-01",
+            "address": "cosmosvaloper1nu0e8euce4sykzh7u4rd5ednx56mqwjhxzn2sz",
+            "curr_stake": 76.008196,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "paul",
+            "address": "cosmosvaloper15rl4vv3phxl2urgwh85yck9q4z4l70f5ms82ur",
+            "curr_stake": 2.398,
+            "commission_rate": 6e+16
+        },
+        {
+            "moniker": "Easy2Stake",
+            "address": "cosmosvaloper15l0dktrl5wxhxxczfxla262zzzueu6v8dhh04f",
+            "curr_stake": 7999259.495074,
+            "commission_rate": 2e+17
+        },
+        {
+            "moniker": "Artela",
+            "address": "cosmosvaloper1kr9cx8w5dwqnmzsejv5z46zcf4ryzs8dqq5tqk",
+            "curr_stake": 1.0,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "Stakely.io",
+            "address": "cosmosvaloper1c28cfmvvne62n5347h3nptar7ka0dffxam8ct3",
+            "curr_stake": 8010402.657587,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "Deroris Moniker",
+            "address": "cosmosvaloper1mqf94r54xhklqu7265cxupczpu8es7ewgca7tf",
+            "curr_stake": 237.361563,
+            "commission_rate": 1.2e+17
+        },
+        {
+            "moniker": "water \ud83c\udf0a",
+            "address": "cosmosvaloper1mngvkkhm6g7nqxh4hcv8hjxvgax4m8xujzt964",
+            "curr_stake": 230006152.863956,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "w3coins",
+            "address": "cosmosvaloper1uy97y2f8fm7l28tl0mr75pgdaf2rzxsg33zfpq",
+            "curr_stake": 25.53776,
+            "commission_rate": 5e+16
+        },
+        {
+            "moniker": "P2P.ORG Validator",
+            "address": "cosmosvaloper17lgg03ze9x6xka02fs0hhw4ad4wwg05heqr2y8",
+            "curr_stake": 7999849.162281,
+            "commission_rate": 1e+17
+        },
+        {
+            "moniker": "Stake&Relax Validator \ud83e\udda5",
+            "address": "cosmosvaloper1lz2lp5xyxsek2jkcydyez2hzzcevs9lqha9pgu",
+            "curr_stake": 2.9,
+            "commission_rate": 5e+16
+        }
+    ]
+}
