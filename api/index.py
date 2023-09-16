@@ -17,7 +17,6 @@ def eval_decentralisation():
         total_supply=request.args.get("total_supply")
     )
     """
-    print(request.get_json())
     payload: EvalDecentralisationPayload = EvalDecentralisationPayload.from_dict(
         request.get_json())
 
@@ -25,11 +24,6 @@ def eval_decentralisation():
         eval_decentralization(payload.stakes)  # , payload.total_supply)
     )
 
-    """
-    self.wfile.write(
-        json.dumps(resp.to_dict()).encode()
-    )
-    """
     return resp.to_json()  # resp.to_json()
 
 
@@ -63,7 +57,7 @@ def optimize():
 
     # prune validators with 0 to stake
     targets = list(filter(lambda x: x.amount_to_stake > 0, targets))
-    # prune validators with > 0.0000001 to stake 
+    # prune validators with < 0.0000001 to stake 
     targets = list(filter(lambda x: x.amount_to_stake > 0.000001, targets))
 
     # create response obj and return

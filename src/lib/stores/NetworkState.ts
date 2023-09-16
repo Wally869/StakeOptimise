@@ -9,6 +9,6 @@ export interface INetworkState {
 export const network_state_store: Writable<null | INetworkState>  = writable(null);
 
 
-export const NETWORK_YIELD: Writable<number> = writable(0);
+export const NETWORK_YIELD: Writable<number | null> = writable(null);
 
-export const DECENTRALIZATION_RATIO: Writable<number> = writable(0);
+export const DECENTRALIZATION_RATIO: Writable<number | null> = writable(null);

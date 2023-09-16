@@ -33,7 +33,6 @@ def stake_optimize(amount_to_stake: float, validator_set: List[Validator]) -> Li
 
     new_total_supply = total_supply + amount_to_stake
     avg_supply = new_total_supply / nb_validators
-    print(avg_supply)
 
     weight_flags = [
         0.0 if (validator.curr_stake > avg_supply) else 1.0 for validator in validator_set
