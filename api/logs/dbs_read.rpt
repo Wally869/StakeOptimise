@@ -1,0 +1,347 @@
+ DBS File Read Report
+
+ Summary
+   Number of Fixed Variables      :  0
+   Number of Manipulated Variables:  0
+   Number of State Variables      :  68
+   Number of Controlled Variables :  0
+ 
+ Name: v1
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v1.LOWER:  0.
+ v1.UPPER:  1.
+ 
+ Name: v2
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v2.LOWER:  0.
+ v2.UPPER:  1.
+ 
+ Name: v3
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v3.LOWER:  0.
+ v3.UPPER:  1.
+ 
+ Name: v4
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v4.LOWER:  0.
+ v4.UPPER:  1.
+ 
+ Name: v5
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v5.LOWER:  0.
+ v5.UPPER:  1.
+ 
+ Name: v6
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v6.LOWER:  0.
+ v6.UPPER:  1.
+ 
+ Name: v7
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v7.LOWER:  0.
+ v7.UPPER:  1.
+ 
+ Name: v8
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v8.LOWER:  0.
+ v8.UPPER:  1.
+ 
+ Name: v9
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v9.LOWER:  0.
+ v9.UPPER:  1.
+ 
+ Name: v10
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v10.LOWER:  0.
+ v10.UPPER:  1.
+ 
+ Name: v11
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v11.LOWER:  0.
+ v11.UPPER:  1.
+ 
+ Name: v12
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v12.LOWER:  0.
+ v12.UPPER:  1.
+ 
+ Name: v13
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v13.LOWER:  0.
+ v13.UPPER:  1.
+ 
+ Name: v14
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v14.LOWER:  0.
+ v14.UPPER:  1.
+ 
+ Name: v15
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v15.LOWER:  0.
+ v15.UPPER:  1.
+ 
+ Name: v16
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v16.LOWER:  0.
+ v16.UPPER:  1.
+ 
+ Name: v17
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v17.LOWER:  0.
+ v17.UPPER:  1.
+ 
+ Name: v18
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v18.LOWER:  0.
+ v18.UPPER:  1.
+ 
+ Name: v19
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v19.LOWER:  0.
+ v19.UPPER:  1.
+ 
+ Name: v20
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v20.LOWER:  0.
+ v20.UPPER:  1.
+ 
+ Name: v21
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v21.LOWER:  0.
+ v21.UPPER:  1.
+ 
+ Name: v22
+  Measurement Uninitialized, Using Model Value ( 0.045454545454545456 ) as Default for MEAS and LSTVAL
+ v22.LOWER:  0.
+ v22.UPPER:  1.
+ 
+ Name: v23
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v23.LOWER:  -1.23456789E+20
+ v23.UPPER:  1.23456789E+20
+ 
+ Name: v24
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v24.LOWER:  -1.23456789E+20
+ v24.UPPER:  1.23456789E+20
+ 
+ Name: v25
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v25.LOWER:  -1.23456789E+20
+ v25.UPPER:  1.23456789E+20
+ 
+ Name: v26
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v26.LOWER:  -1.23456789E+20
+ v26.UPPER:  1.23456789E+20
+ 
+ Name: v27
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v27.LOWER:  -1.23456789E+20
+ v27.UPPER:  1.23456789E+20
+ 
+ Name: v28
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v28.LOWER:  -1.23456789E+20
+ v28.UPPER:  1.23456789E+20
+ 
+ Name: v29
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v29.LOWER:  -1.23456789E+20
+ v29.UPPER:  1.23456789E+20
+ 
+ Name: v30
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v30.LOWER:  -1.23456789E+20
+ v30.UPPER:  1.23456789E+20
+ 
+ Name: v31
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v31.LOWER:  -1.23456789E+20
+ v31.UPPER:  1.23456789E+20
+ 
+ Name: v32
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v32.LOWER:  -1.23456789E+20
+ v32.UPPER:  1.23456789E+20
+ 
+ Name: v33
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v33.LOWER:  -1.23456789E+20
+ v33.UPPER:  1.23456789E+20
+ 
+ Name: v34
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v34.LOWER:  -1.23456789E+20
+ v34.UPPER:  1.23456789E+20
+ 
+ Name: v35
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v35.LOWER:  -1.23456789E+20
+ v35.UPPER:  1.23456789E+20
+ 
+ Name: v36
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v36.LOWER:  -1.23456789E+20
+ v36.UPPER:  1.23456789E+20
+ 
+ Name: v37
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v37.LOWER:  -1.23456789E+20
+ v37.UPPER:  1.23456789E+20
+ 
+ Name: v38
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v38.LOWER:  -1.23456789E+20
+ v38.UPPER:  1.23456789E+20
+ 
+ Name: v39
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v39.LOWER:  -1.23456789E+20
+ v39.UPPER:  1.23456789E+20
+ 
+ Name: v40
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v40.LOWER:  -1.23456789E+20
+ v40.UPPER:  1.23456789E+20
+ 
+ Name: v41
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v41.LOWER:  -1.23456789E+20
+ v41.UPPER:  1.23456789E+20
+ 
+ Name: v42
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v42.LOWER:  -1.23456789E+20
+ v42.UPPER:  1.23456789E+20
+ 
+ Name: v43
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v43.LOWER:  -1.23456789E+20
+ v43.UPPER:  1.23456789E+20
+ 
+ Name: v44
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v44.LOWER:  -1.23456789E+20
+ v44.UPPER:  1.23456789E+20
+ 
+ Name: v45
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v45.LOWER:  -1.23456789E+20
+ v45.UPPER:  1.23456789E+20
+ 
+ Name: v46
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v46.LOWER:  -1.23456789E+20
+ v46.UPPER:  1.23456789E+20
+ 
+ Name: v47
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v47.LOWER:  -1.23456789E+20
+ v47.UPPER:  1.23456789E+20
+ 
+ Name: v48
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v48.LOWER:  -1.23456789E+20
+ v48.UPPER:  1.23456789E+20
+ 
+ Name: v49
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v49.LOWER:  -1.23456789E+20
+ v49.UPPER:  1.23456789E+20
+ 
+ Name: v50
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v50.LOWER:  -1.23456789E+20
+ v50.UPPER:  1.23456789E+20
+ 
+ Name: v51
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v51.LOWER:  -1.23456789E+20
+ v51.UPPER:  1.23456789E+20
+ 
+ Name: v52
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v52.LOWER:  -1.23456789E+20
+ v52.UPPER:  1.23456789E+20
+ 
+ Name: v53
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v53.LOWER:  -1.23456789E+20
+ v53.UPPER:  1.23456789E+20
+ 
+ Name: v54
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v54.LOWER:  -1.23456789E+20
+ v54.UPPER:  1.23456789E+20
+ 
+ Name: v55
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v55.LOWER:  -1.23456789E+20
+ v55.UPPER:  1.23456789E+20
+ 
+ Name: v56
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v56.LOWER:  -1.23456789E+20
+ v56.UPPER:  1.23456789E+20
+ 
+ Name: v57
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v57.LOWER:  -1.23456789E+20
+ v57.UPPER:  1.23456789E+20
+ 
+ Name: v58
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v58.LOWER:  -1.23456789E+20
+ v58.UPPER:  1.23456789E+20
+ 
+ Name: v59
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v59.LOWER:  -1.23456789E+20
+ v59.UPPER:  1.23456789E+20
+ 
+ Name: v60
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v60.LOWER:  -1.23456789E+20
+ v60.UPPER:  1.23456789E+20
+ 
+ Name: v61
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v61.LOWER:  -1.23456789E+20
+ v61.UPPER:  1.23456789E+20
+ 
+ Name: v62
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v62.LOWER:  -1.23456789E+20
+ v62.UPPER:  1.23456789E+20
+ 
+ Name: v63
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v63.LOWER:  -1.23456789E+20
+ v63.UPPER:  1.23456789E+20
+ 
+ Name: v64
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v64.LOWER:  -1.23456789E+20
+ v64.UPPER:  1.23456789E+20
+ 
+ Name: v65
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v65.LOWER:  -1.23456789E+20
+ v65.UPPER:  1.23456789E+20
+ 
+ Name: v66
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v66.LOWER:  -1.23456789E+20
+ v66.UPPER:  1.23456789E+20
+ 
+ Name: v67
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v67.LOWER:  -1.23456789E+20
+ v67.UPPER:  1.23456789E+20
+ 
+ Name: v68
+  Measurement Uninitialized, Using Model Value ( 0. ) as Default for MEAS and LSTVAL
+ v68.LOWER:  -1.23456789E+20
+ v68.UPPER:  1.23456789E+20
