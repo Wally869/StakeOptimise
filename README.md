@@ -13,6 +13,19 @@ This tool currently only supports the Cosmoshub testnet
 This project was created as a submission for the [AEZ Boost hackaton on DoraHacks](https://dorahacks.io/hackathon/aez-boost/buidl)  
 
 
+## Motivation  
+
+In Proof of Stake (PoS) cryptocurrency networks, it's crucial to evenly distribute stakes among validators for several key reasons:  
+- Security: A balanced stake distribution reduces the risk of centralization, enhancing network security.  
+- Decentralization: Equal stakes support the network's goal of avoiding control by a single entity or small group.  
+- Preventing Cartels: Balanced stakes discourage validator cartels that can undermine fair competition.  
+- Incentives: Equal distribution encourages more validators to participate, increasing network resilience.  
+- Resilience: A balanced distribution makes the network more resistant to targeted attacks.  
+- Trustworthiness: Users trust networks that distribute stakes fairly, fostering user confidence.  
+
+StakeOptimizer helps strengthen the network by splitting your delegations between validators to approach an equal staking value for all validators.
+
+
 ## Usage    
 
 ### Online Demo  
