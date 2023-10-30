@@ -1,0 +1,5 @@
+dataclasses_json==0.5.7
+Flask==3.0.0
+gekko==1.0.6
+numpy==1.23.5
+py_ts_interfaces==0.5.0

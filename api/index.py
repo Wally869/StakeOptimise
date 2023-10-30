@@ -8,6 +8,19 @@ from flask import Flask, request
 
 app = Flask(__name__)
 
+import json
+
+@app.route("/api/dev", methods=["GET"])
+def eval_decentralisation():
+    """
+    payload = EvalDecentralisationPayload(
+        stakes=request.args.get("stakes"),
+        total_supply=request.args.get("total_supply")
+    )
+    """
+
+    return json.dumps({"response": "ok"})  # resp.to_json()
+
 
 @app.route("/api/eval", methods=["POST"])
 def eval_decentralisation():
