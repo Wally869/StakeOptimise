@@ -1,6 +1,7 @@
 # StakeOptimiser   
 
 StakeOptimiser is a tool to enable users to increase decentralisation of stake on Cosmos-based networks.  
+You can try it at: https://stake-optimise.vercel.app/  
 
 1- The user connects to the tool with the Keplr wallet  
 2- Enter the amount to stake and request an optimisation  
@@ -14,10 +15,16 @@ This project was created as a submission for the [AEZ Boost hackaton on DoraHack
 
 ## Usage    
 
+### Online Demo  
+
+An online version is available for Cosmos Hub testnet: https://stake-optimise.vercel.app/  
+
+### Run locally  
+
 This tool makes use of Vercel cloud functions written on python, so you need the Vercel client and Python installed  
 
 1- Clone this repository  
-2- Install dependencies (pnpm install)  
+2- Install js dependencies (pnpm install) and python dependencies 
 3- Run the app (pnpm vercel dev)  
 4- Open "http://localhost:3000/"   
 5- Connect your wallet   
