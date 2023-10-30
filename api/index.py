@@ -11,7 +11,7 @@ app = Flask(__name__)
 import json
 
 @app.route("/api/dev", methods=["GET"])
-def eval_decentralisation():
+def dev():
     """
     payload = EvalDecentralisationPayload(
         stakes=request.args.get("stakes"),
